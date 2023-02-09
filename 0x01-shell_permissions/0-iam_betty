@@ -1,0 +1,3 @@
+#!/bin/bash
+# am switching current user to betty
+echo "sudo chown betty"
